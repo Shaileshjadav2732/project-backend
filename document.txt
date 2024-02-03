@@ -1,0 +1,4 @@
+ jsonwebtoken  & bcrypt library for password management like password encryption or decryption
+
+mongooseAggregatePaginate is stand for operation // not like addition multiplication
+
